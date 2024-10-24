@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilasAndradev
-- 👀 I'm interested in learning to program in Python and C++
-- 🌱 I'm currently learning Python
+- 👀 I'm interested in learning to program in Python, C++ and their libraries
+- 🌱 I'm currently learning Python and C++
 - 💞️ I'm looking to collaborate on software programming
 - 📫 How to reach me ...
 - 😄 Pronouns: He/His
