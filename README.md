@@ -1,5 +1,5 @@
 - 👋 
-- 👀 I'm interested in learning to program in Python, C++ and their libraries
+- 👀 I'm interested in learning to program in  and their libraries
 - 🌱 I'm currently learning Python and C++
 - 💞️ ...
 - 📫 How to reach me ...
@@ -13,14 +13,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, Hi, I’m @SilasAndradev</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I’m @SilasAndradev</h1></summary>
   </ul>
 </div>
 
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -34,13 +34,10 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+<!-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+ ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+ - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)-->
+- 🌱 I’m currently learning **Python, Data Analysis, C++**
 
 - 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
 
