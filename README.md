@@ -1,12 +1,3 @@
-- 👋 
-- 👀 I'm interested in learning to program in  and their libraries
-- 🌱 I'm currently learning Python and C++
-- 💞️ ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I don't have a fun fact
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
