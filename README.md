@@ -12,4 +12,4 @@
     <img src="https://skillicons.dev/icons?i=git,github,go,html,css,js,discord,vscode,cpp&perline=14" />
   </a>
 </p>
-(https://github-readme-stats.vercel.app/api?username=yulocode&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![yulocode](https://github-readme-stats.vercel.app/api?username=yulocode&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
