@@ -1,8 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi There! 👋🏻</h1></summary>
-    
-    
   </ul>
 </div>
 <p>I'm Yulo - I'm a back-end developer, moderator and high school student, I'm interested in AI, development, english, moderation and building a thriving online comunities. I work on random projects(with go) in my free time, a lot involving back-end</p>
@@ -15,5 +13,7 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yulocode&theme=dark&background=000000)](https://git.io/streak-stats)
+<ul align="center">
+<h3>🔥 my stats</h3>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yulocode&theme=dark&hide_border=true&border_radius=4.9&hide_total_contributions=true" alt="GitHub Streak" /></a>
+</ul>
