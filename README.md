@@ -14,6 +14,6 @@
 ---
 
 <ul align="center">
-<h3>🔥 my stats</h3>
+<h3>🔥My Stats</h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yulocode&theme=dark&hide_border=true&border_radius=4.9&hide_total_contributions=false" alt="GitHub Streak" /></a>
 </ul>
