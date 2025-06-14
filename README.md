@@ -12,4 +12,8 @@
     <img src="https://skillicons.dev/icons?i=git,github,go,html,css,js,discord,vscode,cpp&perline=14" />
   </a>
 </p>
-![yulocode](https://github-readme-stats.vercel.app/api?username=yulocode&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
