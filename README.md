@@ -3,7 +3,7 @@
     <summary><h1 style="display: inline-block">Hi There! 👋🏻</h1></summary>
   </ul>
 </div>
-<p>I'm Yulo - I'm a front-end developer, moderator and high school student, I'm interested in AI, development, english, moderation and building a thriving online comunities. I work on random projects(with go) in my free time, a lot involving back-end</p>
+<p>I'm Yulo - I'm a front-end developer, moderator and high school student, I'm interested in AI, development, english, moderation and building a thriving online comunities. I work on random projects(with go) in my free time, a lot involving front-end and gamedev</p>
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
