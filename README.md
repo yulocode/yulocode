@@ -4,6 +4,7 @@
   </ul>
 </div>
 <p>I'm Yulo - I'm a front-end developer, moderator and high school student, I'm interested in AI, development, english, moderation and building a thriving online comunities. I work on random projects in my free time, a lot involving front-end and gamedev</p>
+<p>🇧🇷🇺🇸</p>
 <hr>
 <h3>Tech & Tools Preference</h3>
 
@@ -15,7 +16,6 @@
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
