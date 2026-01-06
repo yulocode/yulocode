@@ -6,6 +6,7 @@
 <p>I'm Yulo - I'm a front-end developer, moderator and high school student, I'm interested in AI, development, english, moderation and building a thriving online comunities. I work on random projects in my free time, a lot involving front-end and gamedev</p>
 <p>🇧🇷🇺🇸</p>
 <hr>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YuloBrand"/></a>
 <h3>Tech & Tools Preference</h3>
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
