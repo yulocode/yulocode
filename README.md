@@ -26,4 +26,5 @@
 <h3>Social Space</h3>
 
 [![discord](https://github.com/user-attachments/assets/8faefdf7-f740-402b-82fc-b64e405f27e8)](https://discord.gg/rnquAzWMmg)
+[![email](https://img.shields.io/badge/-Proton%20Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)(yulocode@proton.me)
 
